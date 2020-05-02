@@ -1,0 +1,6 @@
+{
+  "require": {
+    "nodespark/des-connector": "~7.0"
+  },
+  "minimum-stability": "dev"
+}
